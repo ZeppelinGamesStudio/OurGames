@@ -1,6 +1,6 @@
 {
   "storeLink": "https://play.google.com/store/apps/dev?id=4861341790454931777",
-  "version": 10,
+  "version": 11,
   "games": [
     {
       "name": "mathkidspuzzle",
@@ -27,13 +27,13 @@
       "removed": false
     },
     {
-      "name": "HouseBuilderForKidsView",
+      "name": "HouseBuilderForKids",
       "iconUrl": "https://ourgames.pages.dev/4.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.HouseBuilderForKids",
       "removed": false
     },
     {
-      "name": "KidsPuzzlesGame",
+      "name": "KidsPuzzlesGame_2",
       "iconUrl": "https://ourgames.pages.dev/10.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.KidsPuzzlesGame",
       "removed": false
@@ -45,25 +45,25 @@
       "removed": false
     },
     {
-      "name": "KidsPuzzlesGame",
+      "name": "KidsPuzzlesGame_3",
       "iconUrl": "https://ourgames.pages.dev/9.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.KidsPuzzlesGame",
       "removed": false
     },
     {
-      "name": "KidsColoring",
+      "name": "KidsColoring_2",
       "iconUrl": "https://ourgames.pages.dev/11.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.KidsColoring",
       "removed": false
     },
     {
-      "name": "mathkidspuzzle",
+      "name": "mathkidspuzzle_2",
       "iconUrl": "https://ourgames.pages.dev/12.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.mathkidspuzzle",
       "removed": false
     },
     {
-      "name": "HouseBuilderForKidsView",
+      "name": "HouseBuilderForKids_2",
       "iconUrl": "https://ourgames.pages.dev/8.png",
       "storeLink": "https://play.google.com/store/apps/details?id=com.ZeppelinGames.HouseBuilderForKids",
       "removed": false
